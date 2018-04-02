@@ -1,0 +1,33 @@
+body {
+    background-color: #42f4b3; 
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+
+.catHeart {
+    float:right;
+}
+
+#sex {
+    width: 130px;
+    height: 50px; 
+}
+
+#gender {
+    width: 130px;
+    height: 50px;
+}
+
+#continue {
+    width: 115px;
+    height: 50px; 
+    border-radius: 6px; 
+}
+
+#signin {
+    width:70px;
+    height:30px;
+    border-radius: 6px;
+    background-color: #42f4b3;
+    border: 1px solid black;
+}   
+
