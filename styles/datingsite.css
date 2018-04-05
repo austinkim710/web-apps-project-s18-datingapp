@@ -1,11 +1,11 @@
 body {
-    background-color: #42f4b3; 
     font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+    background-color:#42f4b3;
 }
 
 .catPic {
     position: absolute; 
-    top: 100px; 
+    top: 180px; 
     right: 20px;
 }
 
@@ -23,7 +23,7 @@ body {
     position: absolute; 
     top: 100px;
     left: 60px;
-    font-size: 60px;
+    font-size: 55px;
     color: white; 
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black; 
 }
@@ -68,7 +68,7 @@ body {
     color: white; 
 }
 
-#signin {
+.signin {
     width:70px;
     height:30px;
     border-radius: 6px;
@@ -76,18 +76,18 @@ body {
     border: 1px solid black;
 }   
 
-#existingaccount {
+.existingaccount {
     position: absolute; 
     top: 45px; 
-    right: 60px; 
+    right: 70px; 
 }
 
 #createContainer {
-    background-color: #42f4b3;
+    background: #42f4b3;
 }   
 
 #catTalesContainer {
-    background: #5f6e87;
+    background-color: #5f6e87;
 }
 
 #catTalesTitle {
